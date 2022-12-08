@@ -1,2 +1,2 @@
 # practise
-This is to pratise GitHub.
+This is to practise GitHub.
