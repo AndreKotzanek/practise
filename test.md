@@ -3,6 +3,8 @@ Anforderungen
 
 Schema
 
+![Denkbares Szenario](media/Bild1.png)
+
 Alternatiiven
 
 ### Anforderungen
@@ -13,6 +15,5 @@ Alternatiiven
 
 ## **Schema**
 
-![Denkbares Szenario](media/Bild1.png)
 
 ## **Alterativen**
