@@ -13,4 +13,6 @@ Alternatiiven
 
 ## **Schema**
 
+![Denkbares Szenario](media/Bild1.png)
+
 ## **Alterativen**
