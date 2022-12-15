@@ -1,4 +1,0 @@
-# Einkaufsliste
-Brot
-Eier
-Wasser
